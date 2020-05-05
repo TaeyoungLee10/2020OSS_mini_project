@@ -1,4 +1,4 @@
-# 2020OSS_miniproject
+# 2020OSS_mini_project
 
 #### Contents
 카페 메뉴 관리를 위한 CRUD 프로그램을 개발중입니다.
@@ -33,6 +33,8 @@
 * Name: 이태영
 * Github username: TaeyoungLee10
 * Email: 21900585@handong.edu
+* Contact no: 010-5955-1023
+* 학교: 한동대학교
 
 #### Contributor
 * Name: 임형빈
@@ -53,3 +55,4 @@
 #### 자기소개 파일
 * hello.c: 임형빈 학우님의 자기소개
 * hello2.c: 이태영 학우님의 자기소개
+
