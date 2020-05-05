@@ -77,6 +77,13 @@ int updatemenu(MENU *t){
 	printf("메뉴 사이즈(S/M/L)는 ? ");
 	getchar();
 	scanf("%c", &t->size);
+	while(1){
+		if(t->size == 'S' || t->size == 'M' || t->size == 'L') break;
+		printf("잘못 입력하셨습니다. S/M/L 중 하나로 입력해주세요.\n");
+		printf("메뉴 사이즈(S/M/L)는 ? ");
+		getchar();
+		scanf("%c", &t->size);
+	}
 	printf("ICE or HOT ? ");
 	scanf("%s", t->type);
 	printf("=> 메뉴 수정됨\n");
