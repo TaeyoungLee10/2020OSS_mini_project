@@ -45,6 +45,14 @@ int addmenu(MENU *t){
 	}
 	printf("ICE or HOT ? ");
 	scanf("%s", t->type);
+	
+	while(1){
+		if(strcmp(t->type,"ICE")==0||strcmp(t->type,"HOT")==0) break;
+		printf("잘못 입력하셨습니다. ICE/HOT 둘 중 하나로 입력해주세요.\n");
+		printf("ICE or HOT ?");
+		scanf("%s", t->type);
+	}
+
 	printf("=> 메뉴 추가됨\n");
 	return 1;
 }
@@ -86,6 +94,14 @@ int updatemenu(MENU *t){
 	}
 	printf("ICE or HOT ? ");
 	scanf("%s", t->type);
+
+	while(1){
+		if(strcmp(t->type,"ICE")==0||strcmp(t->type,"HOT")==0) break;
+		printf("잘못 입력하셨습니다. ICE/HOT 둘 중 하나로 입력해주세요.\n");
+		printf("ICE or HOT ?");
+		scanf("%s", t->type);
+	}
+
 	printf("=> 메뉴 수정됨\n");
 	return 1;
 }
