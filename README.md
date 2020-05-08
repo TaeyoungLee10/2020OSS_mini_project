@@ -54,3 +54,8 @@
 * hello.c: 임형빈 학우님의 자기소개
 * hello2.c: 이태영 학우님의 자기소개
 
+#### 개발 일정
+* 2020/04/28~2020/05/05
++ 임형빈 학우님 repository: 공동작업 repository
+* 2020/05/05~ 진행중
++ 이태영 학우님 repository: 공동작업 repository
