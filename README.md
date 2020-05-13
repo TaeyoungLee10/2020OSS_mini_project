@@ -20,6 +20,7 @@
 4. 삭제
 5. 저장
 6. 검색(이름, 가격, 크기, 타입)
+***
 
 #### **Team members**
 + 임형빈
@@ -36,21 +37,22 @@
 * Email: 21900585@handong.edu
 * Repository address: <https://github.com/TaeyoungLee10/2020OSS_mini_project.git>
 
-#### Contributor
+#### **Contributor**
 * Name: 임형빈
 * Github username: lhb0927
 * Email: 21500612@handong.edu
 * Repository address: <https://github.com/lhb0927/2020OSS_miniproject.git>
 
-#### 역할
+#### **역할**
 * 이태영: 구조체 정의, CRUD 함수 정의 
 * 임형빈: 저장, 불러오기, 검색 기능 함수 정의
  
-#### 자기소개 파일
+#### **자기소개 파일**
 * hello.c: 임형빈 학우님의 자기소개
 * hello2.c: 이태영 학우님의 자기소개
 
-#### 개발 일정
+***
+#### **개발 일정**
 * 2020/04/28~2020/05/05
     + 임형빈 학우님 repository: 공동작업 repository
 * 2020/05/05~2020/05/14
